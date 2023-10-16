@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on accessibility research.
-- 🌱 I’m currently learning hydraulic design. 
+- 🔭 I’m currently working on accessibility research. 
 - 📫 How to reach me: jordan@jordanhaisley.me
 - 😄 Pronouns: she/her
